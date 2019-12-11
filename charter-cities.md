@@ -10,7 +10,7 @@ description: Curated Wisdom about Charter Cities
 
 #### Podcasts
 
-#### Videos
+#### People
 
-#### Quotes
+#### Videos
 
