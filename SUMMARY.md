@@ -2,7 +2,6 @@
 
 * [Start Here](README.md)
 * [Charter Cities](charter-cities.md)
-* [Untitled](untitled.md)
 
 ## Crypto
 
