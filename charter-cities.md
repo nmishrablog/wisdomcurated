@@ -12,5 +12,7 @@ description: Curated Wisdom about Charter Cities
 
 #### People
 
+#### Interesting Projects
+
 #### Videos
 
