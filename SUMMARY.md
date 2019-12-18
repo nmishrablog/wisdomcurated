@@ -1,13 +1,6 @@
 # Table of contents
 
 * [Start Here](README.md)
+* [Request for Topics](request-for-topics.md)
 * [Charter Cities](charter-cities.md)
-
-## Crypto
-
-* [Bitcoin](bitcoin.md)
-
-## Open Source
-
-* [Business Models](open-source/business-models.md)
 
