@@ -6,5 +6,3 @@
 
 * [Charter Cities](topics/charter-cities.md)
 
-## Meta
-

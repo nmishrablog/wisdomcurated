@@ -39,7 +39,17 @@ As interest in this project grows, I plan to add communities for each topic, wit
 
 Currently, this is community curated information. So charging for access doesn't make any sense.
 
-If there is sufficient demand for people, for see enough value to commission a report , then charging for that seems valuable, but that is far away in the future. 
+If there is sufficient demand for people, for see enough value to commission a report , then charging for that seems valuable, but that is far away in the future.
+
+#### Suggest a topic
+
+send me an email at topic@wisdomcurated.com with your suggestions
+
+#### Feature Requests
+
+
+
+
 
 
 
