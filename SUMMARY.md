@@ -8,6 +8,3 @@
 
 ## Meta
 
-* [Request for Topics](meta/request-for-topics.md)
-* [Feature Requests](meta/feature-requests.md)
-
