@@ -1,4 +1,4 @@
-# Start Here
+# Getting Started
 
 #### **What is Wisdom Curated ?**
 

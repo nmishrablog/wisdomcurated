@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Start Here](README.md)
+* [Getting Started](README.md)
 
 ## Topics
 
