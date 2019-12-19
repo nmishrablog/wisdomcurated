@@ -17,6 +17,8 @@ To curate wisdom around a topic that is
 
 For each topic, Information should be grouped as follows.
 
+**Credits**
+
 Curated by : The person obsessed with maintaining this list.
 
 * Articles
