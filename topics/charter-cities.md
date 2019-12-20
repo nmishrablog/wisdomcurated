@@ -11,3 +11,15 @@ description: Curated Wisdom about Charter Cities
 * ‎Innovative Governance Podcast - [https://podcasts.apple.com/us/podcast/innovative-governance-podcast/id1365645887](https://podcasts.apple.com/us/podcast/innovative-governance-podcast/id1365645887)
 * Sovereignty as a Service - [https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead\_217---Sovereignty-as-a-Service-e3f7qt](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_217---Sovereignty-as-a-Service-e3f7qt)
 
+#### Articles
+
+* Africa's Megacity Addiction - [https://www.republic.com.ng/june-july-2019/african-mega-city-addiction/](https://www.republic.com.ng/june-july-2019/african-mega-city-addiction/)
+* Akon's Crypto City - [https://www.independent.co.uk/arts-entertainment/music/news/akon-senegal-city-akoin-cryptocurrency-rapper-plan-a8410501.html](https://www.independent.co.uk/arts-entertainment/music/news/akon-senegal-city-akoin-cryptocurrency-rapper-plan-a8410501.html)
+* Radical Markets for Immigration - [https://www.econlib.org/radical-markets-in-immigration/](https://www.econlib.org/radical-markets-in-immigration/)
+* Local Governments are Changing the World - [https://www.cato-unbound.org/2018/07/11/mark-lutter/local-governments-are-changing-world](https://www.cato-unbound.org/2018/07/11/mark-lutter/local-governments-are-changing-world)
+* Sun, Sea and Robots - [https://www.bloomberg.com/graphics/2017-neom-saudi-mega-city/](https://www.bloomberg.com/graphics/2017-neom-saudi-mega-city/)
+* Tech Envisions the Ultimate Start-Up: An Entire City - [https://www.nytimes.com/2018/02/24/upshot/tech-envisions-the-ultimate-start-up-an-entire-city.html](https://www.nytimes.com/2018/02/24/upshot/tech-envisions-the-ultimate-start-up-an-entire-city.html)
+* Honduras experiments with charter cities - [https://www.economist.com/the-americas/2017/08/12/honduras-experiments-with-charter-cities](https://www.economist.com/the-americas/2017/08/12/honduras-experiments-with-charter-cities)
+
+
+
