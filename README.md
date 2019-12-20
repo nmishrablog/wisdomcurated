@@ -45,7 +45,7 @@ If there is sufficient demand for people, for see enough value to commission a r
 
 #### Suggest a topic or Feature Requests
 
-send me an email at admin@wisdomcurated.com with your suggestions
+send me an email at [admin@wisdomcurated.com](maito://admin@wisdomcurated.com) with your suggestions
 
 #### 
 
