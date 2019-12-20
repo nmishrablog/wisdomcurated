@@ -20,6 +20,7 @@ description: 'Curated by : Krish Kubhchand'
 * [Sun, Sea and Robots:](https://www.bloomberg.com/graphics/2017-neom-saudi-mega-city/)
 * [Tech Envisions the Ultimate Start-Up: An Entire City](https://www.nytimes.com/2018/02/24/upshot/tech-envisions-the-ultimate-start-up-an-entire-city.html)
 * [Honduras experiments with charter cities](https://www.economist.com/the-americas/2017/08/12/honduras-experiments-with-charter-cities)
+* [The Landscape for Innovative Governance](https://jacobitemag.com/2018/03/23/the-landscape-of-innovative-governance/)
 
 ## Books
 
@@ -32,6 +33,28 @@ description: 'Curated by : Krish Kubhchand'
 * [From Third World to First: The Singapore Story - 1965-2000](https://www.amazon.com/Third-World-First-Singapore-1965-2000/dp/0060197765)
 * [Seasteading](https://www.amazon.com/Seasteading-Floating-Environment-Liberate-Politicians/dp/1451699263)
 * [Polystate, by Zack Weinersmith](https://www.amazon.com/Polystate-Thought-Experiment-Distributed-Government-ebook/dp/B00IM5EM7W)
+
+## Blogs
+
+* [Scale-free travel](https://devonzuegel.com/post/scale-free-travel)
+* [Paul Romer's website](https://paulromer.net/)
+
+## People
+
+## Video
+
+* [Why the world needs charter cities](https://www.ted.com/talks/paul_romer/transcript?language=en)
+* [Three Types of Charter Cities: Tyler Cowen](https://www.youtube.com/watch?v=DZmIPiBx6pE)
+* [Charter Cities: Possible locations and embryonic growth issues](https://www.youtube.com/watch?v=zXha_l4XdHM)
+
+## Lists
+
+* [Cities reading list](https://devonzuegel.com/post/cities-reading-list)
+* [Charter cities syllabus](https://innovativegovernance.org/2018/12/10/charter-cities-syllabus/)
+* [List of Countries by Land](https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area)
+* [List of 121 'Charter Cities in California'](https://www.cacities.org/Resources-Documents/Resources-Section/Charter-Cities/Charter_Cities-List)
+
+
 
 
 
