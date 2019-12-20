@@ -43,11 +43,11 @@ Currently, this is community curated information. So charging for access doesn't
 
 If there is sufficient demand for people, for see enough value to commission a report , then charging for that seems valuable, but that is far away in the future.
 
-#### Suggest a topic
+#### Suggest a topic or Feature Requests
 
-send me an email at topic@wisdomcurated.com with your suggestions
+send me an email at admin@wisdomcurated.com with your suggestions
 
-#### Feature Requests
+#### 
 
 
 
