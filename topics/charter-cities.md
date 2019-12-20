@@ -54,6 +54,19 @@ description: 'Curated by : Krish Kubhchand'
 * [List of Countries by Land](https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area)
 * [List of 121 'Charter Cities in California'](https://www.cacities.org/Resources-Documents/Resources-Section/Charter-Cities/Charter_Cities-List)
 
+## Events
+
+* [Charter Cities Conference](http://www.chartercitiesconference.com/)
+
+## Papers
+
+* [Competing For Refugees](https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3033871_code734237.pdf?abstractid=2674831&mirid=1)
+* [The Regulation of Entry](https://scholar.harvard.edu/files/shleifer/files/reg_entry.pdf)
+* [A Pure Theory of Local Expenditures](http://www.socsci.uci.edu/~jkbrueck/course%20readings/Econ%20272B%20readings/tiebout.pdf)
+* [Toward a Theory of Property Rights](https://econ.ucsb.edu/~tedb/Courses/Ec100C/Readings/Demsetz_Property_Rights.pdf)
+
+
+
 
 
 
