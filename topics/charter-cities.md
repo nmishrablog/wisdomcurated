@@ -1,8 +1,6 @@
----
-description: 'Curated by : Krish Kubhchand'
----
-
 # Charter Cities
+
+Curated by :[ Krish Kubhchand](https://twitter.com/krishkhubhchand)
 
 ## Podcasts
 
