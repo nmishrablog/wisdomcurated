@@ -1,5 +1,7 @@
 # Getting Started
 
+[Homepage](https://wisdomcurated.com)
+
 ## What is Wisdom Curated?
 
 Searching for relevant information on the internet is broken. Wisdom Curated is an experiment to gather people obsessed by an idea, and have them tell us the relevant information.
