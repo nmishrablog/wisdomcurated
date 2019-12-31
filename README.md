@@ -10,7 +10,7 @@ I am starting out by asking subject-matter-experts to curate information about t
 
 ## How is the information delivered?
 
-Each topic will have atleast one person who will curate information on a weekly basis. Again, we do not want 10 blue links, the goal is to get to highest quality information quickly.
+Each topic will have at least one person who will curate information on a weekly basis. Again, we do not want 10 blue links, the goal is to get to highest quality information quickly.
 
 Each update will have commentary from the expert, maybe an interview with someone in the field and a list of resources. That list will be published here in the library.
 
