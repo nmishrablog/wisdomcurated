@@ -1,57 +1,34 @@
 # Getting Started
 
-#### **What is Wisdom Curated ?**
+[Homepage](https://wisdomcurated.com) \| [Suggest a topic](https://forms.gle/phswqq1ah5RAwQKg7) \|
 
-Wisdom Curated is an experiment to curate the best resources around a particular topic. Think of this as a blend of Wikipedia, Product Hunt and Awesome Lists.
+## What is Wisdom Curated?
 
-#### What are the goals here?
+Searching for relevant information on the internet is broken. Wisdom Curated is an experiment to gather people obsessed by an idea, and have them tell us the relevant information.
 
-To curate wisdom around a topic that is
+I am starting out by asking subject-matter-experts to curate information about their respective fields.
 
-* Actionable
-* Timely
-* Concise
-* Available to everyone
+## How is the information delivered?
 
-#### Template
+Each topic will have atleast one person who will curate information on a weekly basis. Again, we do not want 10 blue links, the goal is to get to highest quality information quickly.
 
-For each topic, Information should be grouped as follows.
+Each update will have commentary from the expert, maybe an interview with someone in the field and a list of resources. That list will be published here in the library.
 
-**Credits**
+## How can I suggest topics?
 
-Curated by : The person obsessed with maintaining this list.
+You can either **fill the survey\(recommended\) or** email me admin@wisdomcurated.com 
 
-* Articles
-* Books
-* Podcasts
-* People
-* Interesting Projects
-* Videos
-* Other
+## Who is behind this?
 
-#### Who is behind this?
+Hey there! I am [Naveen](https://twitter.com/_naveenmishra).  Suggest a topic [here](https://forms.gle/phswqq1ah5RAwQKg7). Get in touch via twitter.
 
-I am [Naveen](https://twitter.com/_naveenmishra), I believe that curation and access to the right information will be immensely valuable. This is my attempt to build a community of people interested in doing this.
+## Will it cost me anything?
 
-#### Future
+This library will always be free for all to access. 
 
-As interest in this project grows, I plan to add communities for each topic, with video calls and have version control of all the data.
+For each topic, there will be highly informative document, that will be paid for by readers.
 
-#### Business Model
-
-Currently, this is community curated information. So charging for access doesn't make any sense.
-
-If there is sufficient demand for people, for see enough value to commission a report , then charging for that seems valuable, but that is far away in the future.
-
-#### Suggest a topic or Feature Requests
-
-send me an email at [admin@wisdomcurated.com](maito://admin@wisdomcurated.com) with your suggestions
-
-#### 
-
-
-
-
+I am also thinking of adding a subscription to wisdomcurated. 
 
 
 
