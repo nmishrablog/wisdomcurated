@@ -8,7 +8,7 @@ Want to read about something specific? [**Suggest a guide**](mailto:suggest@wisd
 
 ## **Guides**
 
-### \*\*\*\*[**No-Code**](no-code.md)
+### \*\*\*\*[**No-Code**](topics/no-code.md)
 
 
 
