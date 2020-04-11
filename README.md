@@ -1,14 +1,10 @@
 # Getting Started
 
-## Answer the right questions.
+**The best of the internet in one place**
 
-Read **authoritative, actionable guides** written by curating advice from experienced operators and industry experts.
+Charter Cities
 
-Want to read about something specific? [**Suggest a guide**](mailto:suggest@wisdomcurated.com)
-
-## **Guides**
-
-### \*\*\*\*[**No-Code**](topics/no-code.md)
+Bitcoin
 
 
 
